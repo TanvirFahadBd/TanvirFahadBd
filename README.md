@@ -5,7 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirfahadbd&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirfahadbd" /> </p>
 About me
-[![](https://visitcount.itsvg.in/api?id=TanvirFahadBd&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
+Hi, I'm Tanvit! 👋
+I'm a Frontend Developer dedicated to turning designs into engaging, high-performance user experiences. I love the challenge of bridging the gap between design and functionality.
+
+What I bring to the table:
+
+Web Dev: HTML, CSS, JavaScript (JS)
+
+Modern Stacks: React.js for dynamic UIs, and Bootstrap for rapid development.
+
+Workflow: Proficient with Git and GitHub for collaborative and organized development.
+
+Creative Skills: I also have a strong background in graphic tools like Photoshop, Lightroom, and Illustrator, which helps me understand and implement pixel-perfect designs.
+
+Let's build something cool together!
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfahadbd" alt="tanvirfahadbd" /></a> </p>
