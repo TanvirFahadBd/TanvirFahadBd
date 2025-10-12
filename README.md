@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirfahadbd&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirfahadbd" /> </p>
-About me
+<h1>About me</h1>
 <hr>
 Hi, I'm Tanvit! 👋
 I'm a Frontend Developer dedicated to turning designs into engaging, high-performance user experiences. I love the challenge of bridging the gap between design and functionality.
