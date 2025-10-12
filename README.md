@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirfahadbd&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirfahadbd" /> </p>
 About me
 <hr>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tanveer02951) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvir.fahad.601196) [!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfahadbd" alt="tanvirfahadbd" /></a> </p>
 
