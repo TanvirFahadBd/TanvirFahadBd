@@ -8,18 +8,6 @@
 <p>
   Hi, I'm Tanvit! 👋
 I'm a Frontend Developer dedicated to turning designs into engaging, high-performance user experiences. I love the challenge of bridging the gap between design and functionality.
-
-What I bring to the table:
-
-Web Dev: HTML, CSS, JavaScript (JS)
-
-Modern Stacks: React.js for dynamic UIs, and Bootstrap for rapid development.
-
-Workflow: Proficient with Git and GitHub for collaborative and organized development.
-
-Creative Skills: I also have a strong background in graphic tools like Photoshop, Lightroom, and Illustrator, which helps me understand and implement pixel-perfect designs.
-
-Let's build something cool together!
 </p>
 
 
