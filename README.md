@@ -23,5 +23,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="262.5" height="326.9318181818182" alt="a cat wearing glasses and a bow tie is using a laptop ." loading="lazy">
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="1071" height="321">
+
 
