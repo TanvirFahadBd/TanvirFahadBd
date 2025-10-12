@@ -23,3 +23,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="262.5" height="326.9318181818182" alt="a cat wearing glasses and a bow tie is using a laptop ." loading="lazy">
+<img src="https://media1.tenor.com/m/pPKOYQpTO8AAAAAd/monkey-developer.gif" width="833" height="468.5625" alt="a monkey is sitting at a desk with a laptop" fetchpriority="high" style="max-width: 833px;">
