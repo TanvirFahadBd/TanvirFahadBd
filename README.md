@@ -35,7 +35,7 @@ My Gmail : tanvir01749176442@gmail.com
   <img src="https://media1.tenor.com/m/NiBD3Jj07AYAAAAC/monkey-laptop.gif" width="683" height="326.9318181818182" alt="a monkey sits at a desk in front of a laptop with the words adult swim visible" fetchpriority="high" style="max-width: 683px;">
 </div>
 <div align="center">
-<img alt="" class="bi gl pq c" width="700" height="394" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*yfTdliGo9NbOfGE3M3fEPQ.gif">
+<img alt="" class="bi gl pq c" width="700" height="394" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*yfTdliGo9NbOfGE3M3fEPQ.gif" style="background:transparent;">
 </div>
 
 <div align="center">
