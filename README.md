@@ -30,7 +30,10 @@ My Gmail : tanvir01749176442@gmail.com
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfahadbd" alt="tanvirfahadbd" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="262.5" height="326.9318181818182" alt="a cat wearing glasses and a bow tie is using a laptop ." loading="lazy"> <span>
+<div>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="262.5" height="326.9318181818182" alt="a cat wearing glasses and a bow tie is using a laptop ." loading="lazy">
+  <img src="https://media1.tenor.com/m/NiBD3Jj07AYAAAAC/monkey-laptop.gif" width="683" height="381.2730923694779" alt="a monkey sits at a desk in front of a laptop with the words adult swim visible" fetchpriority="high" style="max-width: 683px;">
+</div>
 <div align="center">
 <img alt="" class="bi gl pq c" width="700" height="394" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*yfTdliGo9NbOfGE3M3fEPQ.gif">
 </div>
