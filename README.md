@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirfahadbd&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirfahadbd" /> </p>
-<h1> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> About me</h1>
+<h1> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%); width:16px;" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> About me</h1>
 <p>
   Hi, I'm Tanvit! 👋
 I'm a Frontend Developer dedicated to turning designs into engaging, high-performance user experiences. I love the challenge of bridging the gap between design and functionality.
