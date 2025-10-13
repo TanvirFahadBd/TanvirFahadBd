@@ -32,6 +32,8 @@ My Gmail : tanvir01749176442@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="262.5" height="326.9318181818182" alt="a cat wearing glasses and a bow tie is using a laptop ." loading="lazy">
 
+<img alt="" class="bi gl pq c" width="700" height="394" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*yfTdliGo9NbOfGE3M3fEPQ.gif">
+
 
 
 
