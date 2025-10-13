@@ -31,52 +31,10 @@ My Gmail : tanvir01749176442@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="262.5" height="326.9318181818182" alt="a cat wearing glasses and a bow tie is using a laptop ." loading="lazy">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Happy Coding Animation</title>
-    <style>
-        /* Basic styling for the text container */
-        #happyCodingText {
-            font-family: 'Arial Black', Gadget, sans-serif;
-            font-size: 4em; /* Large text */
-            text-align: center;
-            margin-top: 100px;
-            text-shadow: 2px 2px 4px #000000; /* Subtle shadow */
-            transition: color 0.4s; /* Smooth transition for color change */
-        }
-        body {
-            background-color: #f0f0f0; /* Light background */
-        }
-    </style>
-</head>
-<body>
-    <div id="happyCodingText">Happy Coding</div>
 
-    <script>
-        // Get the element to animate
-        const textElement = document.getElementById('happyCodingText');
 
-        // Array of colors to cycle through
-        const colors = ['#FF5733', '#33FF57', '#3357FF', '#FF33A1', '#33FFF6', '#F3FF33'];
-        let colorIndex = 0;
 
-        // Function to change the color
-        function animateText() {
-            // Apply the current color
-            textElement.style.color = colors[colorIndex];
 
-            // Move to the next color in the array
-            colorIndex = (colorIndex + 1) % colors.length;
-        }
-
-        // Start the animation: call animateText every 500 milliseconds (half a second)
-        // This is the core JavaScript animation loop
-        setInterval(animateText, 500); 
-    </script>
-</body>
-</html>
 
 
 
