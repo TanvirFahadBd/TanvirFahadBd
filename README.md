@@ -35,7 +35,9 @@ My Gmail : tanvir01749176442@gmail.com
 <img alt="" class="bi gl pq c" width="700" height="394" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/1*yfTdliGo9NbOfGE3M3fEPQ.gif">
 
 
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
