@@ -27,7 +27,7 @@ My Gmail : tanvir01749176442@gmail.com
 ---
 [![](https://visitcount.itsvg.in/api?id=TanvirFahadBd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfahadbd" alt="tanvirfahadbd" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirfahadbd" alt="tanvirfahadbd" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div>
