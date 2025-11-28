@@ -1,9 +1,9 @@
-
+ <div>Hi My Name is TANVIR</div>
 <div align="center">
 <img   style="display: block;-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%);"cursor: zoom-in; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
  </div>
 <h3 align="center">
- <div>Hi My Name is TANVIR</div>A passionate frontend developer from Bangladesh</h3>
+A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirfahadbd&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirfahadbd" /> </p>
 <h1> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%); width:25px;" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> About me</h1>
