@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanver%20Fahat&fontSize=42&fontAlignY=32&desc=Frontend%20Developer-Graphics%20Designer&descSize=16&descAlignY=51&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TANVER%20FAHAT&fontSize=42&fontAlignY=32&desc=Frontend%20Developer-Graphics%20Designer&descSize=16&descAlignY=51&animation=twinkling)
 </div>
 
 <div align="center">
