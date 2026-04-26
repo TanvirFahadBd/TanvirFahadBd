@@ -17,7 +17,7 @@
 <br/>
 
 
-
+<div>
 ### 👋 About Me
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
@@ -76,6 +76,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ![](https://github-contributor-stats.vercel.app/api?username=TanvirfahadBd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
+</div>
 </div>
 
 ---
