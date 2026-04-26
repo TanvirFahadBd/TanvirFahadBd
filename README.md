@@ -11,7 +11,7 @@
 </div>
  </div>
 
-  
+<div>![coding](./code.svg)
 <p>
  
 I'm a Frontend Developer dedicated to turning designs into engaging, high-performance user experiences. I love the challenge of bridging the gap between design and functionality.
