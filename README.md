@@ -1,27 +1,18 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanver%20Fahat&fontSize=42&fontAlignY=32&desc=Frontend%20Developer&descSize=16&descAlignY=51&animation=twinkling)
-<div align="center">
 
-</div>
+<img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); cursor: zoom-in;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
 
-
-<div align="center">
-<img   style="display: block;-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%);"cursor: zoom-in; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
- </div>
- <div align="center" >
-
-  <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&lines=Web+Developer;Graphic+Designer;Traveller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&lines=Web+Developer;Graphic+Designer;Traveller" alt="Typing SVG" />
 </a>
+
 </div>
 
 <br/>
 
-
-<div align="start">
-<h1>About me</h1>
+## About me
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
 
@@ -31,13 +22,11 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 - 📬 Reach me at **tanvir01749176442@gmail.com**
 - ⚡ Fun fact: I travel to find design inspiration
 
-<br clear="right"/>
-
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<h1>#### 🌐 Frontend </h1>
+#### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -60,31 +49,28 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=TanvirfahadBd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirfahadBd&theme=tokyonight&hide_border=true&layout=compact" />
 
-
-
 </div>
 
 ---
 
-### 🏆 Top Contributed Repos
+## 🏆 Top Contributed Repos
 
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=TanvirfahadBd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
-</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -99,7 +85,6 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 ---
 
 <div align="center">
-
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="contribution snake" />
 
