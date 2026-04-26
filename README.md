@@ -16,7 +16,7 @@
 
 <br/>
 
-## About me
+<h1>About me</h1>
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
 
@@ -28,7 +28,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ---
 
-## 🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
