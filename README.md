@@ -20,7 +20,7 @@
 
 
 <div align="start">
-<h1 text="green">About me</h1>
+<h1>About me</h1>
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
 
@@ -34,9 +34,9 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ---
 
-### 🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 
-#### 🌐 Frontend
+<h1>#### 🌐 Frontend </h1>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
