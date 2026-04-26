@@ -1,11 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanvir%20Fahad&fontSize=42&fontAlignY=32&desc=Frontend%20Developer&descSize=16&descAlignY=51&animation=twinkling)
-
-<h1 align="center"><span style="color:red;">HI MY NAME IS TANVER FAHAT</span></h1>
 <div align="center">
 <img   style="display: block;-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%);"cursor: zoom-in; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
  </div>
- <div align="center">
-   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Graphic+designer;Traveller" alt="Typing SVG" /></a>
+ <div align="center" >
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&color=FF0000&lines=Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&color=00FF00&lines=Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&color=FFD700&lines=Traveller" alt="Typing SVG" />
+</div>
  </div>
 
   
