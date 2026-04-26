@@ -1,7 +1,9 @@
 <h1 align="center"><span style="color:red;">HI MY NAME IS TANVER FAHAT</span></h1>
 <div align="center">
 <img   style="display: block;-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%);"cursor: zoom-in; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Graphic+designer;Traveller" alt="Typing SVG" /></a>
+ </div>
+ <div align="center">
+   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Graphic+designer;Traveller" alt="Typing SVG" /></a>
  </div>
 
   
