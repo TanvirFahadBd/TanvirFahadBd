@@ -99,7 +99,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=TanvirfahadBd&icon=6&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://astounding-salamander-51bae4.netlify.app/?fbclid=IwY2xjawRa-KdleHRuA2FlbQIxMABicmlkETFGSkdLYWVVYk10c2IzMlEzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHq0DdEnVxF8OcY-2kWxOoyUVuhPU7WdDzlO0dKoFdTamLbd3se8O8_v6SbUi_aem_MrbQ8Aqwwb5acqQfcz8VaQ)
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="contribution snake" />
 
