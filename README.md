@@ -6,7 +6,9 @@
 
 <br/>
 
-<div align="center">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200"/>
+
+### 👋 About Me
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
 
@@ -44,7 +46,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?style=flat-square&logo=affinity-designer&logoColor=white)
 
 ---
-</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
