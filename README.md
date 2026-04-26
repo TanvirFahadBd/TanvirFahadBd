@@ -17,7 +17,7 @@
 <br/>
 
 
-<div>
+<div align="start">
 ### 👋 About Me
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
