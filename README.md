@@ -11,7 +11,10 @@
 </div>
  </div>
 
-<div>![coding](./code.svg)
+<div>
+ <div align="center">
+  <img src="./code.svg" alt="coding gif" />
+</div>
 <p>
  
 I'm a Frontend Developer dedicated to turning designs into engaging, high-performance user experiences. I love the challenge of bridging the gap between design and functionality.
