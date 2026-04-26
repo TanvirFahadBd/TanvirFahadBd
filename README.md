@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tanver%20Fahat&fontSize=52&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Designer&descSize=15&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanver%20Fahat&fontSize=42&fontAlignY=32&desc=Frontend%20Developer&descSize=16&descAlignY=51&animation=twinkling)
+<div align="center">
+<img   style="display: block;-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%);"cursor: zoom-in; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
 
 </div>
 
