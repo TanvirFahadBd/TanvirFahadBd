@@ -4,14 +4,7 @@
 
 </div>
 
-<div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=TanvirfahadBd&icon=6&color=6)](https://visitcount.itsvg.in)
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="contribution snake" />
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
-
-</div>
 <div align="center">
 <img   style="display: block;-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%);"cursor: zoom-in; src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
  </div>
