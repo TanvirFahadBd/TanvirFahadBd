@@ -2,11 +2,14 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanver%20Fahat&fontSize=42&fontAlignY=32&desc=Frontend%20Developer&descSize=16&descAlignY=51&animation=twinkling)
 </div>
+
+<div align="center">
 <img style="display: block; margin: auto; background-color: hsl(0, 0%, 90%); cursor: zoom-in;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="221" height="124">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&lines=Web+Developer;Graphic+Designer;Traveller" alt="Typing SVG" />
 </a>
+</div>
 
 <br/>
 
