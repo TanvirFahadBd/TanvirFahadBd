@@ -66,7 +66,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=TanvirfahadBd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirfahadBd&theme=tokyonight&hide_border=true&layout=compact" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=TanvirfahadBd&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
