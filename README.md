@@ -4,9 +4,7 @@
  </div>
  <div align="center" >
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&color=FF0000&lines=Web+Developer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&color=00FF00&lines=Graphic+Designer" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&center=true&width=600&color=FFD700&lines=Traveller" alt="Typing SVG" />
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Graphic+designer;Traveller" alt="Typing SVG" /></a> make the texts bold and bigger and center
 </div>
  </div>
 
