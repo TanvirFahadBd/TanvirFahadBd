@@ -92,6 +92,6 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="contribution snake" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,53:302b63,100:0f0c29&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:25243e,53:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
