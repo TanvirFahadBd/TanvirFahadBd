@@ -34,7 +34,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ---
 
-<h1>🛠️ Tech Stack</h1>
+🛠️ Tech Stack
 
 <h1>#### 🌐 Frontend </h1>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
