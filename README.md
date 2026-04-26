@@ -6,8 +6,7 @@
 
 <br/>
 
-
-### 👋 About Me
+<div align="center">
 
 I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-performance web experiences. I bridge the gap between design and engineering — turning ideas into polished, user-centered interfaces.
 
@@ -45,7 +44,7 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?style=flat-square&logo=affinity-designer&logoColor=white)
 
 ---
-
+</div>
 ### 📊 GitHub Stats
 
 <div align="center">
