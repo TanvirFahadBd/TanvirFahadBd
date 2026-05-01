@@ -59,14 +59,11 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TanvirfahadBd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirfahadBd&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TanvirfahadBd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirfahadBd&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
 
 ## 🏆 Top Contributed Repos
 
