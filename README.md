@@ -57,13 +57,18 @@ I'm a **Frontend Developer** passionate about crafting pixel-perfect, high-perfo
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TanvirFahadBd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TanvirFahadBd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TanvirFahadBd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TanvirfahadBd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirfahadBd&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TanvirFahadBd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=TanvirFahadBd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 Top Contributed Repos
 
